@@ -10,7 +10,10 @@ const EVENT_TYPES = [
   { id: 'new_submission', label: 'New submission on a bounty' }
 ];
 
-const DEFAULT_CATEGORIES = ['development', 'content', 'design', 'research', 'community', 'other'];
+// Seeded from tags actually observed on the live board - the config page
+// merges this with whatever tags show up in real polled data, so it stays
+// accurate over time even if this list goes stale.
+const DEFAULT_CATEGORIES = ['coding', 'writing', 'design', 'security', 'research', 'other'];
 
 // First match wins, evaluated in order.
 const REWARD_TIERS = [
@@ -27,7 +30,8 @@ function rewardToTier(reward) {
 }
 
 module.exports = {
-  BOUNTY_BOARD_API_URL: process.env.BOUNTY_BOARD_API_URL || 'https://owockibot.xyz/api/bounties',
+  // Confirmed live and working as of 2026-07-05.
+  BOUNTY_BOARD_API_URL: process.env.BOUNTY_BOARD_API_URL || 'https://bounty.owockibot.xyz/bounties',
   // Set this to your GitHub Pages URL, e.g. https://yourname.github.io/owockibot-notifier
   PUBLIC_BASE_URL: process.env.PUBLIC_BASE_URL || 'https://example.github.io/owockibot-notifier',
   MAX_FEED_ITEMS: Number(process.env.MAX_FEED_ITEMS || 200),

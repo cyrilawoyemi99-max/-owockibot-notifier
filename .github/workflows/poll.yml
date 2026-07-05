@@ -1,0 +1,44 @@
+name: Poll bounty board
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poll-bounty-board
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run poller
+        env:
+          BOUNTY_BOARD_API_URL: ${{ vars.BOUNTY_BOARD_API_URL }}
+          PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+        run: node scripts/poll.js
+
+      - name: Commit updated data and feeds
+        run: |
+          git config user.name "owockibot-notifier-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ docs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update feed data [skip ci]"
+            git push
+          fi

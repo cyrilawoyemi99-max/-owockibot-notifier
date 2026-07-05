@@ -1,0 +1,16 @@
+{
+  "name": "owockibot-bounty-notifier",
+  "version": "1.0.0",
+  "description": "GitHub Actions based RSS + webhook notifier for the owockibot bounty board",
+  "private": true,
+  "scripts": {
+    "poll": "node scripts/poll.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "feed": "^4.2.2"
+  },
+  "license": "MIT"
+}

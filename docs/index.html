@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>owockibot Bounty Notifications</title>
+<style>
+  :root {
+    --bg: #0b0d10; --panel: #14171c; --border: #262b33;
+    --text: #e6e8eb; --muted: #8b93a1; --accent: #5eead4;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; line-height: 1.5; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 40px 20px 80px; }
+  h1 { font-size: 20px; margin-bottom: 4px; }
+  .sub { color: var(--muted); margin-top: 0; margin-bottom: 32px; font-size: 14px; }
+  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 20px; margin-bottom: 24px; }
+  .panel h2 { font-size: 15px; margin-top: 0; color: var(--accent); }
+  a.button { display: inline-block; background: var(--accent); color: #05221d; text-decoration: none;
+    padding: 10px 18px; border-radius: 6px; font-weight: 600; font-size: 14px; margin-right: 10px; margin-top: 6px; }
+  a.button.secondary { background: transparent; border: 1px solid var(--border); color: var(--text); font-weight: 400; }
+  ul.feed-links { font-size: 13px; padding-left: 18px; }
+  ul.feed-links li { margin-bottom: 6px; word-break: break-all; }
+  code { background: #0e1013; border: 1px solid var(--border); border-radius: 4px; padding: 2px 6px; font-size: 12px; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>owockibot bounty board notifications</h1>
+  <p class="sub">RSS feeds and webhook notifications for new bounties, status changes, and submissions. No server - runs entirely on GitHub Actions + Pages.</p>
+
+  <div class="panel">
+    <h2>subscribe a webhook</h2>
+    <p class="sub" style="margin-bottom:14px;">Opens a pre-filled GitHub Issue. A bot processes it within about a minute and closes the issue automatically.</p>
+    <a class="button" id="subscribe-link" href="#" target="_blank">subscribe via GitHub issue</a>
+    <a class="button secondary" id="unsubscribe-link" href="#" target="_blank">unsubscribe</a>
+  </div>
+
+  <div class="panel">
+    <h2>rss / json feeds</h2>
+    <p class="sub" style="margin-bottom:10px;">Main feed has everything. Per-category and per-tier feeds are generated automatically.</p>
+    <ul class="feed-links" id="feed-links">
+      <li>loading feed list...</li>
+    </ul>
+  </div>
+
+  <div class="panel">
+    <h2>webhook payload shape</h2>
+    <pre style="font-size:12px; overflow-x:auto;">{
+  "event": "new_bounty | claimed | submitted | completed | new_submission",
+  "bounty": {
+    "id": "string", "title": "string", "category": "string",
+    "reward": 0, "status": "string", "submissionsCount": 0, "url": "string"
+  },
+  "timestamp": "ISO date"
+}</pre>
+  </div>
+</div>
+
+<script>
+// Fill in your repo owner/name here so the subscribe/unsubscribe links work.
+const REPO_OWNER = "REPLACE_ME_OWNER";
+const REPO_NAME = "REPLACE_ME_REPO";
+
+document.getElementById('subscribe-link').href =
+  `https://github.com/${REPO_OWNER}/${REPO_NAME}/issues/new?template=subscribe.yml`;
+document.getElementById('unsubscribe-link').href =
+  `https://github.com/${REPO_OWNER}/${REPO_NAME}/issues/new?template=unsubscribe.yml`;
+
+fetch('./categories.json')
+  .then((r) => r.ok ? r.json() : { categories: [], tiers: [] })
+  .catch(() => ({ categories: [], tiers: [] }))
+  .then(({ categories, tiers }) => {
+    const list = document.getElementById('feed-links');
+    let html = `<li><a href="./feed.xml">feed.xml</a> - everything (RSS)</li>`;
+    html += `<li><a href="./feed.json">feed.json</a> - everything (JSON Feed)</li>`;
+    categories.forEach((c) => {
+      html += `<li><a href="./feed-category-${c}.xml">feed-category-${c}.xml</a></li>`;
+    });
+    (tiers || []).forEach((t) => {
+      html += `<li><a href="./feed-tier-${t.id}.xml">feed-tier-${t.id}.xml</a> - ${t.label}</li>`;
+    });
+    list.innerHTML = html;
+  });
+</script>
+</body>
+</html>

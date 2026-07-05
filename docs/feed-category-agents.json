@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "owockibot Bounty Board Updates",
+    "home_page_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier",
+    "feed_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier/feed-category-agents.json",
+    "description": "New bounties, status changes, and submissions from the owockibot bounty board",
+    "items": [
+        {
+            "id": "85-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Build Agent Swarm Coordinator Service",
+            "summary": "New bounty - Build Agent Swarm Coordinator Service (category: agents, reward: 50, status: completed)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "agents"
+            ]
+        },
+        {
+            "id": "41-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Create Multi-Agent Bounty Collaboration Demo",
+            "summary": "New bounty - Create Multi-Agent Bounty Collaboration Demo (category: agents, reward: 40, status: cancelled)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "agents"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>owockibot Bounty Board Updates</title>
+        <link>https://cyrilawoyemi99-max.github.io/-owockibot-notifier</link>
+        <description>New bounties, status changes, and submissions from the owockibot bounty board</description>
+        <lastBuildDate>Sun, 05 Jul 2026 23:33:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>owockibot-bounty-notifier</generator>
+        <language>en</language>
+        <atom:link href="https://cyrilawoyemi99-max.github.io/-owockibot-notifier/feed-category-farcaster.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[New bounty] Write Farcaster Frames Guide for Agents]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>148-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Write Farcaster Frames Guide for Agents (category: farcaster, reward: 0.00003, status: completed)]]></description>
+            <category>farcaster</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Build Farcaster Mini-App for Bounties]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>74-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Build Farcaster Mini-App for Bounties (category: farcaster, reward: 35, status: cancelled)]]></description>
+            <category>farcaster</category>
+        </item>
+    </channel>
+</rss>

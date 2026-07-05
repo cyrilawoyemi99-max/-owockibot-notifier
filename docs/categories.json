@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "agents",
+    "analytics",
+    "coding",
+    "content",
+    "coordination",
+    "design",
+    "erc-8004",
+    "farcaster",
+    "github",
+    "growth",
+    "marketplace",
+    "monitoring",
+    "other",
+    "podcast",
+    "security",
+    "telegram",
+    "template",
+    "video",
+    "voice",
+    "writing"
+  ],
+  "tiers": [
+    {
+      "id": "small",
+      "label": "Small (up to 50)"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (51-200)"
+    },
+    {
+      "id": "large",
+      "label": "Large (201-1000)"
+    },
+    {
+      "id": "xlarge",
+      "label": "X-Large (1000+)"
+    }
+  ]
+}

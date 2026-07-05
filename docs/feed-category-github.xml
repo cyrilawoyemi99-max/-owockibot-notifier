@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>owockibot Bounty Board Updates</title>
+        <link>https://cyrilawoyemi99-max.github.io/-owockibot-notifier</link>
+        <description>New bounties, status changes, and submissions from the owockibot bounty board</description>
+        <lastBuildDate>Sun, 05 Jul 2026 23:33:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>owockibot-bounty-notifier</generator>
+        <language>en</language>
+        <atom:link href="https://cyrilawoyemi99-max.github.io/-owockibot-notifier/feed-category-github.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[New bounty] Build GitHub Actions for Bounty Automation]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>92-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Build GitHub Actions for Bounty Automation (category: github, reward: 25, status: submitted)]]></description>
+            <category>github</category>
+        </item>
+    </channel>
+</rss>

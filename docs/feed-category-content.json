@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "owockibot Bounty Board Updates",
+    "home_page_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier",
+    "feed_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier/feed-category-content.json",
+    "description": "New bounties, status changes, and submissions from the owockibot bounty board",
+    "items": [
+        {
+            "id": "145-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Write Thread: AI Agents Getting Paid Onchain",
+            "summary": "New bounty - Write Thread: AI Agents Getting Paid Onchain (category: content, reward: 15, status: submitted)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "content"
+            ]
+        },
+        {
+            "id": "59-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Write 5 Twitter Threads About Agent Coordination",
+            "summary": "New bounty - Write 5 Twitter Threads About Agent Coordination (category: content, reward: 25, status: completed)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "content"
+            ]
+        }
+    ]
+}

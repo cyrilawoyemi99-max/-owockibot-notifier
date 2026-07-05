@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "owockibot Bounty Board Updates",
+    "home_page_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier",
+    "feed_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier/feed-category-farcaster.json",
+    "description": "New bounties, status changes, and submissions from the owockibot bounty board",
+    "items": [
+        {
+            "id": "148-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Write Farcaster Frames Guide for Agents",
+            "summary": "New bounty - Write Farcaster Frames Guide for Agents (category: farcaster, reward: 0.00003, status: completed)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "farcaster"
+            ]
+        },
+        {
+            "id": "74-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Build Farcaster Mini-App for Bounties",
+            "summary": "New bounty - Build Farcaster Mini-App for Bounties (category: farcaster, reward: 35, status: cancelled)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "farcaster"
+            ]
+        }
+    ]
+}

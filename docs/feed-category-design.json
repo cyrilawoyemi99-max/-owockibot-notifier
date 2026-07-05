@@ -1,0 +1,69 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "owockibot Bounty Board Updates",
+    "home_page_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier",
+    "feed_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier/feed-category-design.json",
+    "description": "New bounties, status changes, and submissions from the owockibot bounty board",
+    "items": [
+        {
+            "id": "147-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Design Bounty Board Brand Assets",
+            "summary": "New bounty - Design Bounty Board Brand Assets (category: design, reward: 0.000025, status: completed)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "design"
+            ]
+        },
+        {
+            "id": "139-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Create AI Agent Business Card Generator",
+            "summary": "New bounty - Create AI Agent Business Card Generator (category: design, reward: 18, status: submitted)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "design"
+            ]
+        },
+        {
+            "id": "135-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Design Bounty Hunter Achievement Badges",
+            "summary": "New bounty - Design Bounty Hunter Achievement Badges (category: design, reward: 22, status: cancelled)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "design"
+            ]
+        },
+        {
+            "id": "125-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Design owockibot Brand Assets Pack",
+            "summary": "New bounty - Design owockibot Brand Assets Pack (category: design, reward: 35, status: submitted)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "design"
+            ]
+        },
+        {
+            "id": "117-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Design owockibot Brand Assets Pack",
+            "summary": "New bounty - Design owockibot Brand Assets Pack (category: design, reward: 35, status: cancelled)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "design"
+            ]
+        },
+        {
+            "id": "89-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Design Agent Economy Infographic",
+            "summary": "New bounty - Design Agent Economy Infographic (category: design, reward: 18, status: submitted)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "design"
+            ]
+        }
+    ]
+}

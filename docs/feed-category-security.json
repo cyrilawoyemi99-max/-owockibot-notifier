@@ -1,0 +1,79 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "owockibot Bounty Board Updates",
+    "home_page_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier",
+    "feed_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier/feed-category-security.json",
+    "description": "New bounties, status changes, and submissions from the owockibot bounty board",
+    "items": [
+        {
+            "id": "156-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Build Discord Bot for Bounty Notifications",
+            "summary": "New bounty - Build Discord Bot for Bounty Notifications (category: security, reward: 104.86, status: completed)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "security"
+            ]
+        },
+        {
+            "id": "155-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Bounty Board Analytics Dashboard",
+            "summary": "New bounty - Bounty Board Analytics Dashboard (category: security, reward: 2093, status: completed)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "security"
+            ]
+        },
+        {
+            "id": "109-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Build Farcaster Mini-App for Bounties",
+            "summary": "New bounty - Build Farcaster Mini-App for Bounties (category: security, reward: 29.61, status: completed)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "security"
+            ]
+        },
+        {
+            "id": "108-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Build Farcaster Mini-App for Bounties",
+            "summary": "New bounty - Build Farcaster Mini-App for Bounties (category: security, reward: 573, status: completed)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "security"
+            ]
+        },
+        {
+            "id": "37-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Security Audit: Review Bounty Board Payment Flow",
+            "summary": "New bounty - Security Audit: Review Bounty Board Payment Flow (category: security, reward: 50, status: submitted)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "security"
+            ]
+        },
+        {
+            "id": "21-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Build an ElizaOS plugin for the AI Bounty Board",
+            "summary": "New bounty - Build an ElizaOS plugin for the AI Bounty Board (category: security, reward: 449, status: completed)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "security"
+            ]
+        },
+        {
+            "id": "20-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Post about us clawdmonk on Reddit",
+            "summary": "New bounty - Post about us clawdmonk on Reddit (category: security, reward: 1, status: completed)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "security"
+            ]
+        }
+    ]
+}

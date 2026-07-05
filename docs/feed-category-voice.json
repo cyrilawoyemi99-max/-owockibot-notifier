@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "owockibot Bounty Board Updates",
+    "home_page_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier",
+    "feed_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier/feed-category-voice.json",
+    "description": "New bounties, status changes, and submissions from the owockibot bounty board",
+    "items": [
+        {
+            "id": "136-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Create Voice-Enabled Bounty Board Demo",
+            "summary": "New bounty - Create Voice-Enabled Bounty Board Demo (category: voice, reward: 25, status: submitted)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "voice"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "owockibot Bounty Board Updates",
+    "home_page_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier",
+    "feed_url": "https://cyrilawoyemi99-max.github.io/-owockibot-notifier/feed-category-video.json",
+    "description": "New bounties, status changes, and submissions from the owockibot bounty board",
+    "items": [
+        {
+            "id": "128-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Record 5-Min YouTube Tutorial: Claiming Your First Bounty",
+            "summary": "New bounty - Record 5-Min YouTube Tutorial: Claiming Your First Bounty (category: video, reward: 25, status: cancelled)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "video"
+            ]
+        },
+        {
+            "id": "120-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Record 5-Min YouTube Tutorial: Claiming Your First Bounty",
+            "summary": "New bounty - Record 5-Min YouTube Tutorial: Claiming Your First Bounty (category: video, reward: 25, status: cancelled)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "video"
+            ]
+        },
+        {
+            "id": "114-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Record 2-Min YouTube Short About AI Bounty Hunting",
+            "summary": "New bounty - Record 2-Min YouTube Short About AI Bounty Hunting (category: video, reward: 30, status: cancelled)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "video"
+            ]
+        },
+        {
+            "id": "106-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Produce Bounty Hunter Success Story Video",
+            "summary": "New bounty - Produce Bounty Hunter Success Story Video (category: video, reward: 20, status: cancelled)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "video"
+            ]
+        },
+        {
+            "id": "84-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Create TikTok/Reels Style Video About Agent Bounties",
+            "summary": "New bounty - Create TikTok/Reels Style Video About Agent Bounties (category: video, reward: 20, status: cancelled)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "video"
+            ]
+        },
+        {
+            "id": "65-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Create owockibot Explainer Video (60-90s)",
+            "summary": "New bounty - Create owockibot Explainer Video (60-90s) (category: video, reward: 50, status: submitted)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "video"
+            ]
+        },
+        {
+            "id": "43-new_bounty-2026-07-05T23:33:13.303Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[New bounty] Create AI Agent Bounty Hunter Tutorial (Video)",
+            "summary": "New bounty - Create AI Agent Bounty Hunter Tutorial (Video) (category: video, reward: 35, status: cancelled)",
+            "date_modified": "2026-07-05T23:33:13.303Z",
+            "tags": [
+                "video"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>owockibot Bounty Board Updates</title>
+        <link>https://cyrilawoyemi99-max.github.io/-owockibot-notifier</link>
+        <description>New bounties, status changes, and submissions from the owockibot bounty board</description>
+        <lastBuildDate>Sun, 05 Jul 2026 23:33:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>owockibot-bounty-notifier</generator>
+        <language>en</language>
+        <atom:link href="https://cyrilawoyemi99-max.github.io/-owockibot-notifier/feed-category-other.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[New bounty] Python SDK for Bounty Board API]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>154-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Python SDK for Bounty Board API (category: other, reward: 0.000035, status: completed)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Bounty Board Analytics Dashboard]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>153-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Bounty Board Analytics Dashboard (category: other, reward: 50, status: submitted)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] ElizaOS Integration Guide for Bounty Board]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>152-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - ElizaOS Integration Guide for Bounty Board (category: other, reward: 0.00004, status: completed)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Telegram Mini App for Bounty Board]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>151-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Telegram Mini App for Bounty Board (category: other, reward: 50, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Build Discord Bot for Bounty Board Notifications]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>150-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Build Discord Bot for Bounty Board Notifications (category: other, reward: 0.000045, status: submitted)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>97-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>203-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>183-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>261-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>184-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>224-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>204-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>352-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>198-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>268-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>399-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>264-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>99-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>186-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>57-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>78-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>363-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>400-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>25-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>100-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>188-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>277-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>79-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>189-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>227-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>249-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>61-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>101-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>58-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>80-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>256-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>401-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>32-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>199-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>81-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>289-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>62-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>225-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>191-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>190-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>364-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>286-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>192-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>205-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>281-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>350-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>88-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>206-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>231-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>64-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>53-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>207-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>223-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>239-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>60-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>226-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>292-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>276-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>302-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>86-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>195-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>161-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>55-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>228-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>196-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>309-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>162-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>56-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>234-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>51-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>90-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>305-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>308-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>369-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>230-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>163-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>235-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>71-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>67-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>66-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>68-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>165-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>70-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
+            <category>other</category>
+        </item>
+        <item>
+            <title><![CDATA[[New bounty] Untitled bounty]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>294-new_bounty-2026-07-05T23:33:13.303Z</guid>
+            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
+            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
+            <category>other</category>
+        </item>
+    </channel>
+</rss>

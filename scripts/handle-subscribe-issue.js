@@ -6,18 +6,26 @@
 const fs = require('fs');
 const path = require('path');
 const store = require('./store');
-const { EVENT_TYPES, REWARD_TIERS, DEFAULT_CATEGORIES } = require('./config');
+const { EVENT_TYPES, REWARD_TIERS } = require('./config');
 const { parseSections, parseCheckedLabels, labelsToIds } = require('./parseIssueForm');
 
 const RESULT_FILE = path.join(__dirname, '..', 'subscribe-result.json');
+
+function parseCommaList(sectionContent) {
+  if (!sectionContent) return [];
+  return sectionContent
+    .split(',')
+    .map((s) => s.trim().toLowerCase())
+    .filter(Boolean)
+    .filter((s) => !/^_no response_$/i.test(s)); // GitHub's placeholder for an empty optional field
+}
 
 function run() {
   const body = process.env.ISSUE_BODY || '';
   const sections = parseSections(body);
 
   const webhookUrl = (sections['Webhook URL'] || '').trim();
-  const categoryOptions = DEFAULT_CATEGORIES.map((c) => ({ id: c, label: c }));
-  const categories = labelsToIds(parseCheckedLabels(sections['Categories']), categoryOptions);
+  const categories = parseCommaList(sections['Categories']);
   const rewardTiers = labelsToIds(parseCheckedLabels(sections['Reward Tiers']), REWARD_TIERS);
   const events = labelsToIds(parseCheckedLabels(sections['Event Types']), EVENT_TYPES);
 

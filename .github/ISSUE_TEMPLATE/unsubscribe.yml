@@ -1,0 +1,23 @@
+name: Unsubscribe from bounty notifications
+description: Stop receiving webhook notifications
+title: "Unsubscribe: "
+labels: ["unsubscribe"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Provide the Subscription ID you were given when you subscribed, OR your webhook URL to remove all subscriptions using it.
+  - type: input
+    id: subscription-id
+    attributes:
+      label: Subscription ID
+      placeholder: "e.g. f021cc27-3087-409c-bafc-812641d429ca"
+    validations:
+      required: false
+  - type: input
+    id: webhook-url
+    attributes:
+      label: Webhook URL
+      placeholder: "https://example.com/hooks/owockibot"
+    validations:
+      required: false

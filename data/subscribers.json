@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "b0201bf5-5775-4d0a-81c8-d63362016c45",
+    "webhookUrl": "https://webhook.site/e2d5c69c-adc4-4220-86e8-e154f76edd17",
+    "categories": [
+      "coding"
+    ],
+    "rewardTiers": [
+      "*"
+    ],
+    "events": [
+      "new_bounty",
+      "claimed"
+    ],
+    "createdAt": "2026-07-06T11:39:33.286Z",
+    "active": true
+  }
+]

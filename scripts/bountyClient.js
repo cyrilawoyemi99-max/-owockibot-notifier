@@ -53,7 +53,9 @@ async function fetchBounties() {
   const res = await fetch(BOUNTY_BOARD_API_URL, { headers: { Accept: 'application/json' } });
   if (!res.ok) throw new Error(`Bounty board API returned ${res.status} ${res.statusText}`);
   const json = await res.json();
-  return unwrapList(json).map(normalize).filter((b) => b.id && b.id !== 'undefined');
-}
+ return unwrapList(json)
+  .map(normalize)
+  .filter((b) => b.id && b.id !== 'undefined')
+  .filter((b) => b.title !== 'Untitled bounty' || b.reward > 0); // drop empty/placeholder records
 
 module.exports = { fetchBounties, normalize, unwrapList };

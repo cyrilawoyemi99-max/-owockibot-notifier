@@ -1,0 +1,46 @@
+name: Subscribe to bounty notifications
+description: Get a webhook when owockibot bounties change
+title: "Subscribe: "
+labels: ["subscribe"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill this in and submit - a bot will process it within a minute and close this issue automatically.
+  - type: input
+    id: webhook-url
+    attributes:
+      label: Webhook URL
+      description: Where should notifications be POSTed?
+      placeholder: "https://example.com/hooks/owockibot"
+    validations:
+      required: true
+  - type: input
+    id: categories
+    attributes:
+      label: Categories
+      description: Comma-separated tags to filter by (e.g. "coding, security"). Bounties are tagged freely, so check the board for tags in use. Leave blank for all.
+      placeholder: "coding, writing, design"
+    validations:
+      required: false
+  - type: checkboxes
+    id: reward-tiers
+    attributes:
+      label: Reward Tiers
+      description: Leave all unchecked to receive every reward tier.
+      options:
+        - label: "Small (up to 50)"
+        - label: "Medium (51-200)"
+        - label: "Large (201-1000)"
+        - label: "X-Large (1000+)"
+  - type: checkboxes
+    id: event-types
+    attributes:
+      label: Event Types
+      description: Leave all unchecked to receive every event type.
+      options:
+        - label: New bounty posted
+        - label: Bounty claimed
+        - label: Submission made
+        - label: Bounty completed
+        - label: New submission on a bounty

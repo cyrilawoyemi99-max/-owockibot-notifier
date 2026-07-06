@@ -1,0 +1,61 @@
+name: Handle subscribe request
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  subscribe:
+    if: contains(github.event.issue.labels.*.name, 'subscribe')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Process subscription
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: node scripts/handle-subscribe-issue.js
+
+      - name: Commit subscriber
+        run: |
+          git config user.name "owockibot-notifier-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/subscribers.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: add subscriber from issue #${{ github.event.issue.number }} [skip ci]"
+            git push
+          fi
+
+      - name: Comment and close issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const result = JSON.parse(fs.readFileSync('subscribe-result.json', 'utf8'));
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: result.message
+            });
+            if (result.success) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                state: 'closed'
+              });
+            }

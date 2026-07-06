@@ -23,15 +23,11 @@ function unwrapList(json) {
 }
 
 function normalize(raw) {
-  // The API has no single "category" field - it has a `tags` array. We use
-  // the first tag as the primary category for filtering/subscriptions.
   const tags = Array.isArray(raw.tags) ? raw.tags : [];
   const category = (tags[0] || 'other').toLowerCase();
 
-  // reward comes back as a string of USDC base units (6 decimals).
   const rewardUsdc = Number(raw.reward ?? 0) / 1000000;
 
-  // createdAt is epoch milliseconds (a number), not an ISO string.
   const createdAtMs = Number(raw.createdAt);
   const createdAt = Number.isFinite(createdAtMs) ? new Date(createdAtMs).toISOString() : new Date().toISOString();
 
@@ -42,8 +38,6 @@ function normalize(raw) {
     reward: rewardUsdc,
     status: String(raw.status ?? 'open').toLowerCase(),
     submissionsCount: Array.isArray(raw.submissions) ? raw.submissions.length : 0,
-    // No confirmed per-bounty detail page was found on owockibot.xyz at
-    // the time this was written - links to the board itself for now.
     url: 'https://www.owockibot.xyz/bounty',
     createdAt
   };
@@ -53,9 +47,10 @@ async function fetchBounties() {
   const res = await fetch(BOUNTY_BOARD_API_URL, { headers: { Accept: 'application/json' } });
   if (!res.ok) throw new Error(`Bounty board API returned ${res.status} ${res.statusText}`);
   const json = await res.json();
- return unwrapList(json)
-  .map(normalize)
-  .filter((b) => b.id && b.id !== 'undefined')
-  .filter((b) => b.title !== 'Untitled bounty' || b.reward > 0); // drop empty/placeholder records
+  return unwrapList(json)
+    .map(normalize)
+    .filter((b) => b.id && b.id !== 'undefined')
+    .filter((b) => b.title !== 'Untitled bounty' || b.reward > 0); // drop empty/placeholder records
+}
 
 module.exports = { fetchBounties, normalize, unwrapList };

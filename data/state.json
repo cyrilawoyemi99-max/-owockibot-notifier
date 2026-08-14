@@ -568,7 +568,7 @@
       "status": "submitted",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
-      "createdAt": "2026-08-14T15:28:20.240Z"
+      "createdAt": "2026-08-14T16:22:20.312Z"
     },
     "91": {
       "id": "91",
@@ -1161,5 +1161,5 @@
       "createdAt": "2026-02-07T21:31:33.135Z"
     }
   },
-  "lastPolledAt": "2026-08-14T15:28:20.272Z"
+  "lastPolledAt": "2026-08-14T16:22:20.496Z"
 }

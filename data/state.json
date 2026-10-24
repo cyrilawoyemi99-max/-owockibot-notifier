@@ -568,7 +568,7 @@
       "status": "submitted",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
-      "createdAt": "2026-10-24T01:48:32.316Z"
+      "createdAt": "2026-10-24T06:39:05.939Z"
     },
     "91": {
       "id": "91",
@@ -1095,7 +1095,7 @@
       "title": "Build Discord Bot for Bounty Board Notifications",
       "category": "other",
       "reward": 0.000045,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T20:28:09.338Z"
@@ -1161,5 +1161,5 @@
       "createdAt": "2026-02-07T21:31:33.135Z"
     }
   },
-  "lastPolledAt": "2026-10-24T01:48:32.352Z"
+  "lastPolledAt": "2026-10-24T06:39:05.973Z"
 }

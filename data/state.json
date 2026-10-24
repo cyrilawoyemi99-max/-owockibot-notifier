@@ -568,7 +568,7 @@
       "status": "submitted",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
-      "createdAt": "2026-10-24T19:47:58.950Z"
+      "createdAt": "2026-10-24T22:05:12.532Z"
     },
     "91": {
       "id": "91",
@@ -1055,7 +1055,7 @@
       "title": "Build Telegram Mini App for Bounty Discovery",
       "category": "telegram",
       "reward": 40,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 2,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T16:09:50.107Z"
@@ -1161,5 +1161,5 @@
       "createdAt": "2026-02-07T21:31:33.135Z"
     }
   },
-  "lastPolledAt": "2026-10-24T19:47:58.976Z"
+  "lastPolledAt": "2026-10-24T22:05:12.573Z"
 }

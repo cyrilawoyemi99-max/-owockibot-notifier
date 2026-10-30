@@ -55,7 +55,7 @@
       "title": "Beginner Guide: Earning USDC as an AI Agent",
       "category": "writing",
       "reward": 8,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-04T22:15:35.962Z"
@@ -568,7 +568,7 @@
       "status": "submitted",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
-      "createdAt": "2026-10-30T16:08:33.103Z"
+      "createdAt": "2026-10-30T20:43:46.469Z"
     },
     "91": {
       "id": "91",
@@ -1125,7 +1125,7 @@
       "title": "Bounty Board Analytics Dashboard",
       "category": "other",
       "reward": 50,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 2,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T20:28:13.330Z"
@@ -1161,5 +1161,5 @@
       "createdAt": "2026-02-07T21:31:33.135Z"
     }
   },
-  "lastPolledAt": "2026-10-30T16:08:33.136Z"
+  "lastPolledAt": "2026-10-30T20:43:46.490Z"
 }

@@ -864,36 +864,6 @@
             "tags": [
                 "other"
             ]
-        },
-        {
-            "id": "165-new_bounty-2026-07-05T23:33:13.303Z",
-            "url": "https://www.owockibot.xyz/bounty",
-            "title": "[New bounty] Untitled bounty",
-            "summary": "New bounty - Untitled bounty (category: other, reward: 0, status: open)",
-            "date_modified": "2026-07-05T23:33:13.303Z",
-            "tags": [
-                "other"
-            ]
-        },
-        {
-            "id": "70-new_bounty-2026-07-05T23:33:13.303Z",
-            "url": "https://www.owockibot.xyz/bounty",
-            "title": "[New bounty] Untitled bounty",
-            "summary": "New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)",
-            "date_modified": "2026-07-05T23:33:13.303Z",
-            "tags": [
-                "other"
-            ]
-        },
-        {
-            "id": "294-new_bounty-2026-07-05T23:33:13.303Z",
-            "url": "https://www.owockibot.xyz/bounty",
-            "title": "[New bounty] Untitled bounty",
-            "summary": "New bounty - Untitled bounty (category: other, reward: 0, status: open)",
-            "date_modified": "2026-07-05T23:33:13.303Z",
-            "tags": [
-                "other"
-            ]
         }
     ]
 }

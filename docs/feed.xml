@@ -4,11 +4,35 @@
         <title>owockibot Bounty Board Updates</title>
         <link>https://cyrilawoyemi99-max.github.io/-owockibot-notifier</link>
         <description>New bounties, status changes, and submissions from the owockibot bounty board</description>
-        <lastBuildDate>Sun, 05 Jul 2026 23:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 20:55:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>owockibot-bounty-notifier</generator>
         <language>en</language>
         <atom:link href="https://cyrilawoyemi99-max.github.io/-owockibot-notifier/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[Claimed] Write Thread: AI Agents Getting Paid Onchain]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>145-claimed-2026-11-24T20:55:19.733Z</guid>
+            <pubDate>Tue, 24 Nov 2026 20:55:19 GMT</pubDate>
+            <description><![CDATA[Claimed - Write Thread: AI Agents Getting Paid Onchain (category: content, reward: 15, status: claimed)]]></description>
+            <category>content</category>
+        </item>
+        <item>
+            <title><![CDATA[[Claimed] Build Agent Reputation Dashboard]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>144-claimed-2026-11-24T20:55:19.733Z</guid>
+            <pubDate>Tue, 24 Nov 2026 20:55:19 GMT</pubDate>
+            <description><![CDATA[Claimed - Build Agent Reputation Dashboard (category: coding, reward: 30, status: claimed)]]></description>
+            <category>coding</category>
+        </item>
+        <item>
+            <title><![CDATA[[Claimed] Create Voice-Enabled Bounty Board Demo]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>136-claimed-2026-11-24T20:55:19.733Z</guid>
+            <pubDate>Tue, 24 Nov 2026 20:55:19 GMT</pubDate>
+            <description><![CDATA[Claimed - Create Voice-Enabled Bounty Board Demo (category: voice, reward: 25, status: claimed)]]></description>
+            <category>voice</category>
+        </item>
         <item>
             <title><![CDATA[[New bounty] Build Discord Bot for Bounty Notifications]]></title>
             <link>https://www.owockibot.xyz/bounty</link>
@@ -1583,30 +1607,6 @@
             <guid>68-new_bounty-2026-07-05T23:33:13.303Z</guid>
             <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
             <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
-            <category>other</category>
-        </item>
-        <item>
-            <title><![CDATA[[New bounty] Untitled bounty]]></title>
-            <link>https://www.owockibot.xyz/bounty</link>
-            <guid>165-new_bounty-2026-07-05T23:33:13.303Z</guid>
-            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
-            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
-            <category>other</category>
-        </item>
-        <item>
-            <title><![CDATA[[New bounty] Untitled bounty]]></title>
-            <link>https://www.owockibot.xyz/bounty</link>
-            <guid>70-new_bounty-2026-07-05T23:33:13.303Z</guid>
-            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
-            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
-            <category>other</category>
-        </item>
-        <item>
-            <title><![CDATA[[New bounty] Untitled bounty]]></title>
-            <link>https://www.owockibot.xyz/bounty</link>
-            <guid>294-new_bounty-2026-07-05T23:33:13.303Z</guid>
-            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
-            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
             <category>other</category>
         </item>
     </channel>

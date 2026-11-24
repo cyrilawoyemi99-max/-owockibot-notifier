@@ -6,6 +6,16 @@
     "description": "New bounties, status changes, and submissions from the owockibot bounty board",
     "items": [
         {
+            "id": "144-claimed-2026-11-24T20:55:19.733Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[Claimed] Build Agent Reputation Dashboard",
+            "summary": "Claimed - Build Agent Reputation Dashboard (category: coding, reward: 30, status: claimed)",
+            "date_modified": "2026-11-24T20:55:19.733Z",
+            "tags": [
+                "coding"
+            ]
+        },
+        {
             "id": "144-new_bounty-2026-07-05T23:33:13.303Z",
             "url": "https://www.owockibot.xyz/bounty",
             "title": "[New bounty] Build Agent Reputation Dashboard",

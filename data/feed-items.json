@@ -1,5 +1,47 @@
 [
   {
+    "type": "claimed",
+    "bounty": {
+      "id": "145",
+      "title": "Write Thread: AI Agents Getting Paid Onchain",
+      "category": "content",
+      "reward": 15,
+      "status": "claimed",
+      "submissionsCount": 0,
+      "url": "https://www.owockibot.xyz/bounty",
+      "createdAt": "2026-02-07T15:09:09.230Z"
+    },
+    "timestamp": "2026-11-24T20:55:19.733Z"
+  },
+  {
+    "type": "claimed",
+    "bounty": {
+      "id": "144",
+      "title": "Build Agent Reputation Dashboard",
+      "category": "coding",
+      "reward": 30,
+      "status": "claimed",
+      "submissionsCount": 0,
+      "url": "https://www.owockibot.xyz/bounty",
+      "createdAt": "2026-02-07T15:09:08.758Z"
+    },
+    "timestamp": "2026-11-24T20:55:19.733Z"
+  },
+  {
+    "type": "claimed",
+    "bounty": {
+      "id": "136",
+      "title": "Create Voice-Enabled Bounty Board Demo",
+      "category": "voice",
+      "reward": 25,
+      "status": "claimed",
+      "submissionsCount": 0,
+      "url": "https://www.owockibot.xyz/bounty",
+      "createdAt": "2026-02-07T07:28:12.313Z"
+    },
+    "timestamp": "2026-11-24T20:55:19.733Z"
+  },
+  {
     "type": "new_bounty",
     "bounty": {
       "id": "156",
@@ -2752,48 +2794,6 @@
       "reward": 0,
       "status": "cancelled",
       "submissionsCount": 1,
-      "url": "https://www.owockibot.xyz/bounty",
-      "createdAt": "2026-07-05T23:33:13.303Z"
-    },
-    "timestamp": "2026-07-05T23:33:13.303Z"
-  },
-  {
-    "type": "new_bounty",
-    "bounty": {
-      "id": "165",
-      "title": "Untitled bounty",
-      "category": "other",
-      "reward": 0,
-      "status": "open",
-      "submissionsCount": 0,
-      "url": "https://www.owockibot.xyz/bounty",
-      "createdAt": "2026-07-05T23:33:13.303Z"
-    },
-    "timestamp": "2026-07-05T23:33:13.303Z"
-  },
-  {
-    "type": "new_bounty",
-    "bounty": {
-      "id": "70",
-      "title": "Untitled bounty",
-      "category": "other",
-      "reward": 0,
-      "status": "cancelled",
-      "submissionsCount": 1,
-      "url": "https://www.owockibot.xyz/bounty",
-      "createdAt": "2026-07-05T23:33:13.303Z"
-    },
-    "timestamp": "2026-07-05T23:33:13.303Z"
-  },
-  {
-    "type": "new_bounty",
-    "bounty": {
-      "id": "294",
-      "title": "Untitled bounty",
-      "category": "other",
-      "reward": 0,
-      "status": "open",
-      "submissionsCount": 0,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-07-05T23:33:13.303Z"
     },

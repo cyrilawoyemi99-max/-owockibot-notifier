@@ -4,7 +4,7 @@
         <title>owockibot Bounty Board Updates</title>
         <link>https://cyrilawoyemi99-max.github.io/-owockibot-notifier</link>
         <description>New bounties, status changes, and submissions from the owockibot bounty board</description>
-        <lastBuildDate>Sun, 05 Jul 2026 23:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 20:55:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>owockibot-bounty-notifier</generator>
         <language>en</language>
@@ -695,30 +695,6 @@
             <guid>68-new_bounty-2026-07-05T23:33:13.303Z</guid>
             <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
             <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
-            <category>other</category>
-        </item>
-        <item>
-            <title><![CDATA[[New bounty] Untitled bounty]]></title>
-            <link>https://www.owockibot.xyz/bounty</link>
-            <guid>165-new_bounty-2026-07-05T23:33:13.303Z</guid>
-            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
-            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
-            <category>other</category>
-        </item>
-        <item>
-            <title><![CDATA[[New bounty] Untitled bounty]]></title>
-            <link>https://www.owockibot.xyz/bounty</link>
-            <guid>70-new_bounty-2026-07-05T23:33:13.303Z</guid>
-            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
-            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: cancelled)]]></description>
-            <category>other</category>
-        </item>
-        <item>
-            <title><![CDATA[[New bounty] Untitled bounty]]></title>
-            <link>https://www.owockibot.xyz/bounty</link>
-            <guid>294-new_bounty-2026-07-05T23:33:13.303Z</guid>
-            <pubDate>Sun, 05 Jul 2026 23:33:13 GMT</pubDate>
-            <description><![CDATA[New bounty - Untitled bounty (category: other, reward: 0, status: open)]]></description>
             <category>other</category>
         </item>
     </channel>

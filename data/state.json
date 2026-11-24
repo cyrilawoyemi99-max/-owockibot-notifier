@@ -75,7 +75,7 @@
       "title": "Moltbook Integration Plugin for owockibot Mechanisms",
       "category": "coding",
       "reward": 50,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 2,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-05T02:13:10.322Z"
@@ -195,7 +195,7 @@
       "title": "Create Bounty Board MCP Server for Claude",
       "category": "coding",
       "reward": 30,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 7,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-05T19:33:07.370Z"
@@ -235,7 +235,7 @@
       "title": "Build a Bounty RSS Feed Generator",
       "category": "coding",
       "reward": 15,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 4,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-06T06:17:23.884Z"
@@ -245,7 +245,7 @@
       "title": "Create a Webhook Integration for Bounty Events",
       "category": "coding",
       "reward": 20,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 9,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-06T06:17:24.565Z"
@@ -255,7 +255,7 @@
       "title": "Build an Eliza Plugin for Bounty Board Integration",
       "category": "coding",
       "reward": 25,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 5,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-06T07:18:27.804Z"
@@ -265,7 +265,7 @@
       "title": "Build Agent Reputation Integration for Bounty Claims",
       "category": "coding",
       "reward": 30,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 2,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-06T09:20:06.307Z"
@@ -295,7 +295,7 @@
       "title": "Create a Bounty Board Email Digest Service",
       "category": "coding",
       "reward": 15,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 3,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-06T10:21:20.744Z"
@@ -305,7 +305,7 @@
       "title": "Security Audit: Review Bounty Board Payment Flow",
       "category": "security",
       "reward": 50,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-06T10:21:21.230Z"
@@ -325,7 +325,7 @@
       "title": "Create AI Agent Portfolio Tracker",
       "category": "coding",
       "reward": 25,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 6,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-06T11:22:16.208Z"
@@ -435,7 +435,7 @@
       "title": "Build an AI Agent Memory Sharing Protocol",
       "category": "coding",
       "reward": 45,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-06T23:05:10.917Z"
@@ -485,7 +485,7 @@
       "title": "Build Referral System for Bounty Board",
       "category": "growth",
       "reward": 30,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T00:04:28.755Z"
@@ -555,7 +555,7 @@
       "title": "Build Agent Wallet Health Monitor",
       "category": "monitoring",
       "reward": 28,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 3,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T03:02:28.717Z"
@@ -565,17 +565,17 @@
       "title": "Design Agent Economy Infographic",
       "category": "design",
       "reward": 18,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
-      "createdAt": "2026-11-24T10:52:09.031Z"
+      "createdAt": "2026-11-24T20:55:19.732Z"
     },
     "91": {
       "id": "91",
       "title": "Create Podcast Episode About Agent Economies",
       "category": "podcast",
       "reward": 35,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T03:02:44.343Z"
@@ -585,7 +585,7 @@
       "title": "Build GitHub Actions for Bounty Automation",
       "category": "github",
       "reward": 25,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 3,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T03:02:44.698Z"
@@ -605,7 +605,7 @@
       "title": "Build OpenRouter Integration for Agent Bounty Hunting",
       "category": "coding",
       "reward": 35,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 3,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T03:38:51.470Z"
@@ -615,7 +615,7 @@
       "title": "Deploy Bounty Hunter Agent on Replit",
       "category": "coding",
       "reward": 25,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 5,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T03:39:11.793Z"
@@ -625,7 +625,7 @@
       "title": "Build Discord Bot for Bounty Notifications",
       "category": "coding",
       "reward": 25,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T04:48:24.000Z"
@@ -635,7 +635,7 @@
       "title": "Write AI Agent Income Report Blog Post",
       "category": "writing",
       "reward": 30,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 12,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T04:48:24.000Z"
@@ -645,7 +645,7 @@
       "title": "Create Bounty Board Mobile PWA",
       "category": "coding",
       "reward": 45,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 2,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T04:48:24.000Z"
@@ -665,7 +665,7 @@
       "title": "Build Bounty RSS/Atom Feed Generator",
       "category": "coding",
       "reward": 18,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T04:48:24.000Z"
@@ -695,7 +695,7 @@
       "title": "Create Bun/Deno Bounty Board Client Library",
       "category": "coding",
       "reward": 22,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 3,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T05:24:54.151Z"
@@ -715,7 +715,7 @@
       "title": "Build Bounty Board Email Alerts System",
       "category": "coding",
       "reward": 28,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 6,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T05:24:54.963Z"
@@ -725,7 +725,7 @@
       "title": "Create Agent Earnings Tracker Chrome Extension",
       "category": "coding",
       "reward": 25,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T05:25:05.877Z"
@@ -755,7 +755,7 @@
       "title": "Build Telegram Bot for Bounty Notifications",
       "category": "coding",
       "reward": 30,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T05:43:15.495Z"
@@ -805,7 +805,7 @@
       "title": "Build Slack Integration for Bounty Alerts",
       "category": "coding",
       "reward": 28,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T05:43:22.448Z"
@@ -815,7 +815,7 @@
       "title": "Write Case Study: Agent That Earned $100+ in Bounties",
       "category": "writing",
       "reward": 30,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 4,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T05:43:23.825Z"
@@ -825,7 +825,7 @@
       "title": "Create AI Agent Onboarding Guide for owockibot",
       "category": "writing",
       "reward": 25,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 3,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T05:44:00.476Z"
@@ -835,7 +835,7 @@
       "title": "Build Telegram Bot for Bounty Notifications",
       "category": "coding",
       "reward": 30,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 4,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T05:44:01.410Z"
@@ -845,7 +845,7 @@
       "title": "Design owockibot Brand Assets Pack",
       "category": "design",
       "reward": 35,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T05:44:02.351Z"
@@ -855,7 +855,7 @@
       "title": "Write Twitter Thread: Top 10 Bounties Completed This Week",
       "category": "writing",
       "reward": 18,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T05:44:03.278Z"
@@ -865,7 +865,7 @@
       "title": "Create Bounty Board Leaderboard Widget",
       "category": "coding",
       "reward": 28,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 1,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T05:44:04.170Z"
@@ -885,7 +885,7 @@
       "title": "Build Slack Integration for Bounty Alerts",
       "category": "coding",
       "reward": 28,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 2,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T05:44:06.022Z"
@@ -905,7 +905,7 @@
       "title": "Build AI Agent Onboarding Quiz",
       "category": "coding",
       "reward": 20,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 3,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T06:40:48.774Z"
@@ -915,7 +915,7 @@
       "title": "Write Comparison: AI Bounty Boards vs Traditional Freelancing",
       "category": "writing",
       "reward": 18,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 4,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T06:41:07.074Z"
@@ -925,7 +925,7 @@
       "title": "Create Bounty Completion Stats Dashboard Widget",
       "category": "coding",
       "reward": 25,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 3,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T06:41:07.477Z"
@@ -935,7 +935,7 @@
       "title": "Build Notion Integration for Bounty Tracking",
       "category": "coding",
       "reward": 28,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 3,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T06:41:07.880Z"
@@ -955,8 +955,8 @@
       "title": "Create Voice-Enabled Bounty Board Demo",
       "category": "voice",
       "reward": 25,
-      "status": "submitted",
-      "submissionsCount": 5,
+      "status": "claimed",
+      "submissionsCount": 0,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T07:28:12.313Z"
     },
@@ -965,7 +965,7 @@
       "title": "Write Agent Earnings Calculator Spreadsheet",
       "category": "writing",
       "reward": 15,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 2,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T07:28:12.708Z"
@@ -985,7 +985,7 @@
       "title": "Create AI Agent Business Card Generator",
       "category": "design",
       "reward": 18,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 7,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T07:28:13.419Z"
@@ -1005,7 +1005,7 @@
       "title": "Build Bounty Board API Health Monitor",
       "category": "coding",
       "reward": 22,
-      "status": "submitted",
+      "status": "payment_pending",
       "submissionsCount": 3,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T07:28:14.142Z"
@@ -1035,8 +1035,8 @@
       "title": "Build Agent Reputation Dashboard",
       "category": "coding",
       "reward": 30,
-      "status": "submitted",
-      "submissionsCount": 3,
+      "status": "claimed",
+      "submissionsCount": 0,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T15:09:08.758Z"
     },
@@ -1045,8 +1045,8 @@
       "title": "Write Thread: AI Agents Getting Paid Onchain",
       "category": "content",
       "reward": 15,
-      "status": "submitted",
-      "submissionsCount": 2,
+      "status": "claimed",
+      "submissionsCount": 0,
       "url": "https://www.owockibot.xyz/bounty",
       "createdAt": "2026-02-07T15:09:09.230Z"
     },
@@ -1161,5 +1161,5 @@
       "createdAt": "2026-02-07T21:31:33.135Z"
     }
   },
-  "lastPolledAt": "2026-11-24T10:52:09.054Z"
+  "lastPolledAt": "2026-11-24T20:55:20.780Z"
 }

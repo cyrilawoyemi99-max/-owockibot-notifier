@@ -6,6 +6,16 @@
     "description": "New bounties, status changes, and submissions from the owockibot bounty board",
     "items": [
         {
+            "id": "145-claimed-2026-11-24T20:55:19.733Z",
+            "url": "https://www.owockibot.xyz/bounty",
+            "title": "[Claimed] Write Thread: AI Agents Getting Paid Onchain",
+            "summary": "Claimed - Write Thread: AI Agents Getting Paid Onchain (category: content, reward: 15, status: claimed)",
+            "date_modified": "2026-11-24T20:55:19.733Z",
+            "tags": [
+                "content"
+            ]
+        },
+        {
             "id": "145-new_bounty-2026-07-05T23:33:13.303Z",
             "url": "https://www.owockibot.xyz/bounty",
             "title": "[New bounty] Write Thread: AI Agents Getting Paid Onchain",

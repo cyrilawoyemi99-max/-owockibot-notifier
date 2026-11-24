@@ -4,11 +4,19 @@
         <title>owockibot Bounty Board Updates</title>
         <link>https://cyrilawoyemi99-max.github.io/-owockibot-notifier</link>
         <description>New bounties, status changes, and submissions from the owockibot bounty board</description>
-        <lastBuildDate>Sun, 05 Jul 2026 23:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 20:55:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>owockibot-bounty-notifier</generator>
         <language>en</language>
         <atom:link href="https://cyrilawoyemi99-max.github.io/-owockibot-notifier/feed-category-content.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[Claimed] Write Thread: AI Agents Getting Paid Onchain]]></title>
+            <link>https://www.owockibot.xyz/bounty</link>
+            <guid>145-claimed-2026-11-24T20:55:19.733Z</guid>
+            <pubDate>Tue, 24 Nov 2026 20:55:19 GMT</pubDate>
+            <description><![CDATA[Claimed - Write Thread: AI Agents Getting Paid Onchain (category: content, reward: 15, status: claimed)]]></description>
+            <category>content</category>
+        </item>
         <item>
             <title><![CDATA[[New bounty] Write Thread: AI Agents Getting Paid Onchain]]></title>
             <link>https://www.owockibot.xyz/bounty</link>
